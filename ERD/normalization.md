@@ -3,6 +3,8 @@
 ## Objective
 Ensure the database schema adheres to Third Normal Form (3NF) to eliminate redundancy, ensure data integrity, and optimize relational design.
 
+<img title="requirements" alt="Alt text" src="normalized.png">
+
 ## Step-by-Step Normalization
 
 ### 1. First Normal Form (1NF) – Atomicity
